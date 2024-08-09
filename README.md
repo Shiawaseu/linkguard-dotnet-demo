@@ -2,5 +2,8 @@
 
 Example integration guide with C# for [Linkguard](https://linkguard.cc)
 
+# Showcase
+[Showcase](/assets/showcase.mp4)
+
 # DISCLAIMER
 You are not advised to use this demo in your project as-is, and you should also protect your application with anti-debugging tools.
